@@ -1,7 +1,5 @@
 # Amazon Product Review Analysis Dashboard
 
-![Dashboard Preview](dashboard/assets/demo.gif)
-
 Advanced analysis of 568K+ Amazon reviews using:
 - **LDA Topic Modeling** (15 key topics identified)
 - **Sentiment Analysis** (TextBlob + BERT)
@@ -36,6 +34,4 @@ Advanced analysis of 568K+ Amazon reviews using:
 
 Run the interactive dashboard locally:
 ```bash
-pip install -r requirements.txt
 streamlit run dashboard/app.py
-
