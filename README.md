@@ -13,21 +13,21 @@ Advanced analysis of 568K+ Amazon reviews using:
 ## Output Visualizations
 
 ### Topic Modeling
-![Topic Coherence](dashboard/assets/3_topic_coherence.png)
+![Topic Coherence](dashboard/assets/3 topic_coherence.png)
 *Optimal number of topics was 10 based on coherence scores*
 
-![Word Cloud](dashboard/assets/4_word_cloud.png)
+![Word Cloud](dashboard/assets/4 word_cloud.png)
 *Most frequent terms across all reviews*
 
 ### Sentiment Analysis
-![Sentiment Trends](dashboard/assets/5_sentiment_trends.png)
+![Sentiment Trends](dashboard/assets/5 sentiment_trends.png)
 *Positive sentiment increased 22% from 2010-2012*
 
-![Sentiment Heatmap](dashboard/assets/7_sentiment_heatmap.png)
+![Sentiment Heatmap](dashboard/assets/7 sentiment_heatmap.png)
 *Monthly sentiment variations across product categories*
 
 ### Helpfulness Analysis
-![Feature Importance](dashboard/assets/9_feature_importance.png)
+![Feature Importance](dashboard/assets/9 feature_importance.png)
 *Review length and rating most predictive of helpfulness*
 
 ## Live Dashboard Setup
